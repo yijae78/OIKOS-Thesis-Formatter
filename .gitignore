@@ -1,0 +1,21 @@
+# Cache & temp
+cache/
+static/
+__pycache__/
+*.pyc
+
+# Backups & outputs
+backups/
+output/
+final/
+
+# Large binary files (원본 논문, PDF)
+*.pdf
+1. 신이재 박사학위논문 원본.docx
+2. 신이재 DBA박사논문 제본용.pdf
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+*.tmp
+~$*
