@@ -21,3 +21,13 @@ _temp_ref.docx
 Thumbs.db
 *.tmp
 ~$*
+
+# Verification & comparison images (contain dissertation content)
+_verify/
+_fig_compare/
+
+# IDE / tool config
+.serena/
+
+# Temp figures (signatures etc.)
+_temp_figs/
